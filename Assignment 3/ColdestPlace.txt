@@ -1,0 +1,6 @@
+Boston,January,10
+NewYork,February,15
+California,March,20
+Boston,January,2
+NewYork,February,0
+California,March,10
